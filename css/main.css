@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Titillium+Web|Trade+Winds&display=swap');
+
+body {
+    background: url("../img/geometric-leaves.png") repeat;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+h1 {
+    font-family: 'Trade Winds', cursive;
+}
+
+#imageDisplay img {
+    border-radius: 50%;
+    box-shadow:  0 0 10px rgba(33, 33, 33, 0.5);
+}
